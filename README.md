@@ -24,4 +24,3 @@ My name is Mona Taghavi, PhD. University lecturer and researcher in Computer Sci
 - [Information Security](https://github.com/MonaTaghavi/information-security) (420-A12-AS)
 - [Trends in Technology](https://github.com/MonaTaghavi/trends-technology) (420-TT4-AS)
 - [Research, Ethics & Profession](https://github.com/MonaTaghavi/research-ethics) (420-A20-AS)
-- [Internship / Project](https://github.com/MonaTaghavi/internship-project) (420-SG4-AS)
