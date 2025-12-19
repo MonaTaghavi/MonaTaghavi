@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-My name is Mona Taghavi, PhD. University lecturer and researcher in Computer Science.
+👀 My name is **Mona Taghavi, PhD**. University lecturer and researcher in Computer Science.
+
+📫 You can reach me out via [monataghavi.com](http://monataghavi.com)
 
 ## McGill University
 
